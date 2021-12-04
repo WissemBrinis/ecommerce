@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYs5UAjErs9fdPC/W586hSDjZb9bb08rq0dneSbCSD10Ta6WJbt+uQqWaowmnIheBq4lnMLC80Flj7faB2tZDg==",
+  "success": true,
+  "projectFilePath": "/home/brinis/ecommerce/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/brinis/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/brinis/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/brinis/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/brinis/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/brinis/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/brinis/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
